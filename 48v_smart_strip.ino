@@ -4,8 +4,8 @@
 #include <Espalexa.h>
 
 // WiFi credentials - CHANGE THESE
-const char* ssid = "slow";
-const char* password = "surfacepro";
+const char* ssid = "your_wifi_name";
+const char* password = "your_wifi_password";
 
 // Device settings
 String deviceName = "LED Lights"; // This is what you'll say to Alexa
