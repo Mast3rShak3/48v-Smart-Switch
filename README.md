@@ -1,10 +1,7 @@
-Got it — here’s your second text fully rewritten in **plain text** with no photos or emojis, structured like a clean `README.txt` style document:
-
----
 
 # 48V LED Strip Alexa Controller
 
-A smart home controller that enables Alexa voice control of high-power 48V LED strips using an ESP8266 (D1 Mini) and MOSFET switching circuit.
+A smart home controller that enables Alexa voice control of high-power 5V - 55V LED strips using an ESP8266 (D1 Mini) and MOSFET switching circuit.
 
 ---
 
